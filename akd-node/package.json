@@ -1,0 +1,19 @@
+{
+  "name": "akrausedesign",
+  "version": "1.0.0",
+  "description": "Personal website for myself ",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"hello world\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrausedesign/akrausedesign-node.git"
+  },
+  "author": "Andrew Krause",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akrausedesign/akrausedesign-node/issues"
+  },
+  "homepage": "https://github.com/akrausedesign/akrausedesign-node#readme"
+}
